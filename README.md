@@ -1,1 +1,1 @@
-# mosquitto_demo_team
+# mosquitto_demo
